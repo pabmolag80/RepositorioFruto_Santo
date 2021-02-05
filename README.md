@@ -4,4 +4,6 @@ Que permita automatizar  y controlar todos sus procesos .
 Integrantes
 Pablo Andrés Molina Aguilar
 Carlos Mario Navarro Beita
+Jose  Solano Astua
 Creado el 03-12-2020
+
